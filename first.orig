@@ -1,0 +1,14 @@
+This is my sample file
+
+<<<<<<< HEAD
+This is my sample file
+
+This is my sample file
+=======
+
+This is my sample file bound to cause trouble
+
+Modified once again
+
+this is bound to cause trouble
+>>>>>>> very-bad

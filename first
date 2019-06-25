@@ -1,5 +1,18 @@
-This is my sample file
 
 This is my sample file
 
+Modified once again
+
+this is bound to cause trouble
+<<<<<<< .mineThis is my sample file
+
 This is my sample file
+
+This is my sample file=======This is my sample file
+
+
+This is my sample file bound to cause trouble
+
+Modified once again
+
+this is bound to cause trouble>>>>>>> .theirs
